@@ -19,14 +19,14 @@ The dashboard focuses on identifying **data inconsistencies, missing values, dup
 
 ## Features
 
-* ✅ Data cleaning and preprocessing
-* ✅ Missing values detection
-* ✅ Duplicate records identification
-* ✅ Invalid data checks (e.g., negative ages)
-* ✅ No-show analysis
-* ✅ Interactive filters (Gender, No-show status)
-* ✅ Visualizations (histograms, count plots)
-* ✅ Streamlit-based interactive UI
+* Data cleaning and preprocessing
+* Missing values detection
+* Duplicate records identification
+* Invalid data checks (e.g., negative ages)
+* No-show analysis
+* Interactive filters (Gender, No-show status)
+* Visualizations (histograms, count plots)
+* Streamlit-based interactive UI
 
 ---
 
